@@ -1,0 +1,13 @@
+.whole-container{
+    display: flex;
+    background: #f4f4f4;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.vh-100 {
+    min-height: 100vh;
+}
+
+
